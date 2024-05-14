@@ -16,4 +16,4 @@ labels:
 customFields:
   - name: another custom field
     type: text
-    value: ''
+    value: null
