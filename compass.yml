@@ -16,7 +16,7 @@ labels:
 customFields:
   - name: another custom field
     type: text
-    value: null
+    value: "hi"
   - name: test field
     type: text
     value: null
