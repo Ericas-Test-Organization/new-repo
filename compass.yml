@@ -17,6 +17,3 @@ customFields:
   - name: another custom field
     type: text
     value: "hi"
-  - name: test field
-    type: text
-    value: "this is here"
