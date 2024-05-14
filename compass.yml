@@ -19,4 +19,4 @@ customFields:
     value: "hi"
   - name: test field
     type: text
-    value: null
+    value: "this is here"
