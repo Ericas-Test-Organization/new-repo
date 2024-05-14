@@ -1,0 +1,19 @@
+name: another service 2
+id: 'ari:cloud:compass:f23407d4-1f9e-4b43-988f-4afbd4085910:component/2e6959f4-a440-4f58-91bd-a592816fe99c/acf748b0-cf19-47d5-abbc-2ff756cf002c'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 3
+links:
+  - name: ''
+    type: REPOSITORY
+    url: 'https://bitbucket.org/ez-another-workspace/template-repo/src/main/'
+relationships: {}
+labels:
+  - synced-with-jsm
+customFields:
+  - name: test field
+    type: text
+    value: 'hi'
